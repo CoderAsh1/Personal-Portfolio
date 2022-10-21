@@ -1,0 +1,1358 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#141814;display:block;z-index:1;position:relative" width="1084" height="322" preserveAspectRatio="xMidYMid" viewBox="0 0 1084 322">
+<defs>
+  <pattern id="pid-0.007770985201042135" x="0" y="0" width="130.56" height="130.56" patternUnits="userSpaceOnUse">
+    <g transform="scale(0.51)"><g transform="translate(36.95681058269963,171.31757906291318)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g></g><g transform="translate(292.95681058269963,171.31757906291318)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.19473084736838908s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.19473084736838908s"></animateTransform>
+</g>
+</g></g><g transform="translate(204.46949278601141,254.09445234830707)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g></g><g transform="translate(204.46949278601141,-1.9055476516929275)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.10316814856422196s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.10316814856422196s"></animateTransform>
+</g>
+</g></g><g transform="translate(60.527949447863364,60.76440741761809)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.45477991744862756s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.45477991744862756s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.45477991744862756s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.45477991744862756s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.45477991744862756s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.45477991744862756s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.45477991744862756s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.45477991744862756s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.45477991744862756s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.45477991744862756s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.45477991744862756s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.45477991744862756s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.45477991744862756s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.45477991744862756s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.45477991744862756s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.45477991744862756s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.45477991744862756s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.45477991744862756s"></animateTransform>
+</g>
+</g></g><g transform="translate(103.908544454474,174.6658855893694)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7547613421821759s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7547613421821759s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7547613421821759s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7547613421821759s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7547613421821759s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7547613421821759s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7547613421821759s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7547613421821759s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7547613421821759s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7547613421821759s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7547613421821759s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7547613421821759s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7547613421821759s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7547613421821759s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7547613421821759s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7547613421821759s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7547613421821759s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7547613421821759s"></animateTransform>
+</g>
+</g></g><g transform="translate(43.94037680465789,222.32349259875554)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g></g><g transform="translate(43.94037680465789,-33.676507401244464)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.8711877067766971s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.8711877067766971s"></animateTransform>
+</g>
+</g></g><g transform="translate(10.059449596215359,252.00223267539798)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g></g><g transform="translate(266.05944959621536,252.00223267539798)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g></g><g transform="translate(10.059449596215359,-3.997767324602023)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.9561111940063645s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.9561111940063645s"></animateTransform>
+</g>
+</g></g><g transform="translate(223.32366461398783,111.18811853291635)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g></g><g transform="translate(-32.67633538601217,111.18811853291635)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6166538213140975s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6166538213140975s"></animateTransform>
+</g>
+</g></g><g transform="translate(239.05530141456933,65.9425720136411)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g></g><g transform="translate(-16.94469858543067,65.9425720136411)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7932388065064655s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7932388065064655s"></animateTransform>
+</g>
+</g></g><g transform="translate(231.37275478236404,66.23902683890049)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g></g><g transform="translate(-24.62724521763596,66.23902683890049)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.7926167769089749s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.7926167769089749s"></animateTransform>
+</g>
+</g></g><g transform="translate(109.73061817073096,115.87621554172625)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3704030814296133s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3704030814296133s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3704030814296133s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3704030814296133s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3704030814296133s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3704030814296133s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3704030814296133s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3704030814296133s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3704030814296133s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3704030814296133s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3704030814296133s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3704030814296133s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3704030814296133s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3704030814296133s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3704030814296133s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3704030814296133s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3704030814296133s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3704030814296133s"></animateTransform>
+</g>
+</g></g><g transform="translate(142.75716065764004,115.99226807664064)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6854397441626654s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6854397441626654s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6854397441626654s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6854397441626654s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6854397441626654s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6854397441626654s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6854397441626654s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6854397441626654s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6854397441626654s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6854397441626654s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6854397441626654s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6854397441626654s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6854397441626654s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6854397441626654s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6854397441626654s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6854397441626654s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.6854397441626654s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.6854397441626654s"></animateTransform>
+</g>
+</g></g><g transform="translate(141.15131588288415,159.6688764046056)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3962482772713565s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3962482772713565s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3962482772713565s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3962482772713565s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3962482772713565s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3962482772713565s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3962482772713565s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3962482772713565s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3962482772713565s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3962482772713565s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3962482772713565s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3962482772713565s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3962482772713565s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3962482772713565s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3962482772713565s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3962482772713565s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.3962482772713565s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.3962482772713565s"></animateTransform>
+</g>
+</g></g><g transform="translate(226.9865141097922,178.7180849591337)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g></g><g transform="translate(-29.01348589020779,178.7180849591337)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#00ff78" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.590466472967363s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.590466472967363s"></animateTransform>
+</g>
+</g></g><g transform="translate(206.5456823207075,199.60371759248574)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.22043385426401718s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.22043385426401718s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.22043385426401718s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.22043385426401718s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.22043385426401718s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.22043385426401718s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.22043385426401718s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.22043385426401718s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.22043385426401718s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.22043385426401718s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.22043385426401718s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.22043385426401718s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.22043385426401718s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.22043385426401718s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.22043385426401718s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.22043385426401718s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#245d41" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.22043385426401718s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.22043385426401718s"></animateTransform>
+</g>
+</g></g><g transform="translate(143.28693970938235,32.261370586980945)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g></g><g transform="translate(143.28693970938235,288.26137058698095)"><g transform="rotate(0)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(40)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(80)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(120)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(160)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(200)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(240)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(280)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g><g transform="rotate(320)"><g>
+<line x1="-5" x2="5" y1="0" y2="0" stroke="#ceff00" stroke-linecap="round" stroke-width="3">
+<animateTransform attributeName="transform" type="scale" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0;1;0" begin="-0.49672362959709826s"></animateTransform>
+</line>
+<animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 0;40 0" begin="-0.49672362959709826s"></animateTransform>
+</g>
+</g></g></g>
+  </pattern>
+</defs>
+<rect x="0" y="0" width="1084" height="322" fill="url(#pid-0.007770985201042135)"></rect>
+</svg>

@@ -1,0 +1,16 @@
+export { default as cssLogo } from "./css.png";
+export { default as htmlLogo } from "./html.png";
+export { default as jsLogo } from "./js.png";
+export { default as reactLogo } from "./react.png";
+export { default as tailwindLogo } from "./tailwind.png";
+export { default as nodeLogo } from "./node.png";
+export { default as expressLogo } from "./express.png";
+export { default as mongoLogo } from "./mongo.png";
+export { default as sass } from "./sass.png";
+export { default as ViewTube } from "./ViewTube.png";
+export { default as Newsapp } from "./Newsapp.png";
+export { default as Weather } from "./weather.png";
+export { default as phone } from "./phone.png";
+export { default as gmail } from "./gmail.png";
+export { default as github } from "./github.png";
+export { default as linkedIn } from "./linkedin.png";

@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;600&display=swap");
+* {
+  font-family: "League Spartan", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 10px;
+  color: white;
+  background-color: #141814;
+  scroll-behavior: smooth;
+}
+html::-webkit-scrollbar {
+  display: block;
+}
+html::-webkit-scrollbar-thumb {
+  background: rgb(32, 32, 32);
+  width: 0.2px;
+}
+html::-webkit-scrollbar-track {
+  background: rgb(44, 53, 46);
+}
+
+.App > div {
+  padding: 0 10rem;
+}
+@media (max-width: 600px) {
+  .App > div {
+    padding: 0 2rem;
+  }
+}

@@ -1,0 +1,46 @@
+@import "./variables.scss";
+#footer {
+  display: flex;
+  margin-top: 3rem;
+  gap: 4rem;
+  flex-direction: column;
+  align-items: center;
+  a {
+    text-decoration: none;
+  }
+
+  .socials {
+    display: flex;
+    width: 50%;
+    gap: 6rem;
+    justify-content: center;
+    padding-bottom: 2.5rem;
+    @media (max-width: 800px) {
+      gap: 2rem;
+      flex-wrap: wrap;
+      width: 90%;
+    }
+    a {
+      text-decoration: none;
+      color: white;
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+      font-size: 2rem;
+      width: 50%;
+      @media (max-width: 800px) {
+        justify-content: space-between;
+        width: 90vw;
+      }
+    }
+  }
+  h2 {
+    font-size: 2.6rem;
+    color: $main-color;
+    box-shadow: 0.4rem 0.6rem 1rem $main-color inset, 0 0 1rem $main-color;
+    border-radius: 2rem;
+    text-align: center;
+    padding: 1rem 2rem;
+    color: $main-color;
+  }
+}
