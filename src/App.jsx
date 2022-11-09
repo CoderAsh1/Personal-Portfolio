@@ -7,6 +7,7 @@ import Skills from "./components/Skills";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
+import Certification from "./components/Certification";
 AOS.init();
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <Hero />
       <About />
       <Skills />
+      <Certification />
       <Projects />
       <Footer />
     </div>

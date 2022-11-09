@@ -1,0 +1,23 @@
+.certificates .certificate {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+.certificates .certificate img {
+  margin-top: 4rem;
+  height: 50rem;
+  width: 50%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 1rem;
+}
+
+@media (max-width: 600px) {
+  .certificates .certificate {
+    flex-direction: column;
+  }
+  .certificates .certificate img {
+    width: 100%;
+  }
+}/*# sourceMappingURL=certification.css.map */
