@@ -13,7 +13,7 @@ export { default as Weather } from "./weather.png";
 export { default as phone } from "./phone.png";
 export { default as gmail } from "./gmail.png";
 export { default as github } from "./github.png";
-export { default as linkedIn } from "./linkedin.png";
+export { default as linkedIn } from "./linkedIn.png";
 export { default as netflix } from "./netflix.png";
 export { default as cssCertificate } from "./cssCertificate.png";
 export { default as jsCertificate } from "./jsCertificate.jpg";
