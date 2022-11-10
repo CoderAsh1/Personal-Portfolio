@@ -29,12 +29,9 @@ const Projects = () => {
               <Skill logo={sass} text={"SASS"} alt={"sass"} />
             </div>
             <p>
-              <li>
-                This is a Netflix Clone built using a Netflix API from Rapid
-                API.{" "}
-              </li>
-              <li> It has a complete authentication system.</li>
-              <li>It also has complete responsiveness with any device.</li>
+              <li>It is an ongoing Project.</li>
+              <li>This is a Netflix Clone built using TMDB API. </li>
+              <li> It will have complete authentication system.</li>
             </p>
           </section>
           <a href="https://netflix-kappa-eight.vercel.app/" target="blank">
