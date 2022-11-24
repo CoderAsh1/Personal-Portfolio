@@ -6,8 +6,8 @@
 }
 .certificates .certificate img {
   margin-top: 4rem;
-  height: 50rem;
-  width: 50%;
+  aspect-ratio: 16/9;
+  height: 200px;
   -o-object-fit: cover;
      object-fit: cover;
   border-radius: 1rem;

@@ -11,7 +11,7 @@ import {
   sass,
 } from "../assets";
 import Skill from "./Skill";
-import "../Styles/skills.css";
+import "../Styles/skills.scss";
 
 const Skills = () => {
   return (

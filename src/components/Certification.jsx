@@ -1,18 +1,18 @@
 import React from "react";
 import { jsCertificate, cssCertificate } from "../assets";
-import "../Styles/certification.css";
+import "../Styles/certification.scss";
 
 const Certification = () => {
   return (
-    <div
-      className="projectSection certificates"
-      data-aos="fade-up"
-      data-aos-delay="100"
-    >
+    <div className="projectSection certificates" data-aos="fade-in">
       <h1>Certification</h1>
       <div className="certificate">
-        <img src={jsCertificate} />
-        <img src={cssCertificate} />
+        <div data-aos="fade-in" data-aos-delay="100">
+          <img src={jsCertificate} />
+        </div>
+        <div data-aos="fade-in" data-aos-delay="100">
+          <img src={cssCertificate} />
+        </div>
       </div>
     </div>
   );

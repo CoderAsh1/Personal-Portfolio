@@ -1,5 +1,5 @@
 import React from "react";
-import "../Styles/footer.css";
+import "../Styles/footer.scss";
 import { phone, gmail, github, linkedIn } from "../assets";
 import CV from "../assets/cv.pdf";
 

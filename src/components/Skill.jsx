@@ -1,5 +1,5 @@
 import React from "react";
-import "../Styles/skill.css";
+import "../Styles/skill.scss";
 
 const skill = ({ logo, alt, text }) => {
   return (

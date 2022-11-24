@@ -2,7 +2,6 @@ import React from "react";
 import programming from "../assets/programming.svg";
 import namaste from "../assets/namaste.png";
 import "../Styles/hero.css";
-
 const Hero = () => {
   return (
     <div className="container" data-aos="fade-in">
@@ -21,6 +20,7 @@ const Hero = () => {
           <button>Contact Me</button>
         </a>
       </section>
+
       <img className="heroImg" src={programming} alt="" />
     </div>
   );
