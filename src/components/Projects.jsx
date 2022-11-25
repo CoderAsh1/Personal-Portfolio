@@ -10,6 +10,10 @@ import {
   Newsapp,
   Weather,
   netflix,
+  crypto,
+  chartJs,
+  material,
+  redux,
 } from "../assets";
 import "../Styles/project.scss";
 import Skill from "./Skill";
@@ -38,6 +42,29 @@ const Projects = () => {
             </section>
             <a href="https://netflix-kappa-eight.vercel.app/" target="blank">
               <img src={netflix} alt="ViewTube" className="projectImage" />
+            </a>
+          </div>
+        </Tilt>
+        <Tilt>
+          <div className="projectContainer" data-aos="fade-left">
+            <section>
+              <a href="https://cryptocake.netlify.app/" target="blank">
+                <h2>CryptoCake</h2>
+              </a>
+              <div className="techStack">
+                <Skill logo={reactLogo} text={"React"} alt={"React"} />
+                <Skill logo={redux} alt={"redux"} text={"Redux"} />
+                <Skill logo={material} alt={"material"} text={"MUI"} />
+                <Skill logo={chartJs} alt={"chartJs"} text={"chartJs"} />
+              </div>
+              <p>
+                <li>It is a crypto app with latest charts.</li>
+                <li>It uses rtk query to fetch the data. </li>
+                <li> The entire UI is built using Material UI and Chart JS.</li>
+              </p>
+            </section>
+            <a href="https://cryptocake.netlify.app/" target="blank">
+              <img src={crypto} alt="crypto" className="projectImage" />
             </a>
           </div>
         </Tilt>

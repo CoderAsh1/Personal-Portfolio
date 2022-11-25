@@ -7,6 +7,7 @@
   align-items: center;
   margin-top: 13rem;
   h1 {
+    margin-top: 1rem;
     font-size: 2.6rem;
     color: $main-color;
     box-shadow: 0.4rem 0.6rem 1rem $main-color inset, 0 0 1rem $main-color;
@@ -35,6 +36,9 @@
     h2 {
       color: $main-color;
       font-size: 3rem;
+      &:hover {
+        color: rgb(7, 245, 7);
+      }
     }
     .techStack {
       display: flex;
@@ -48,6 +52,9 @@
     .projectImage {
       width: 42rem;
       border-radius: 1rem;
+      &:hover {
+        border: 2px solid green;
+      }
     }
     .weTech {
       gap: 0;

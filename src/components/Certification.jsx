@@ -7,12 +7,22 @@ const Certification = () => {
     <div className="projectSection certificates" data-aos="fade-in">
       <h1>Certification</h1>
       <div className="certificate">
-        <div data-aos="fade-in" data-aos-delay="100">
+        <a
+          data-aos="fade-in"
+          data-aos-delay="100"
+          href="https://www.sololearn.com/certificates/CT-6MGZZMCQ"
+          target="blank"
+        >
           <img src={jsCertificate} />
-        </div>
-        <div data-aos="fade-in" data-aos-delay="100">
+        </a>
+        <a
+          data-aos="fade-in"
+          data-aos-delay="100"
+          href="https://www.hackerrank.com/certificates/1cf2549f297c"
+          target="blank"
+        >
           <img src={cssCertificate} />
-        </div>
+        </a>
       </div>
     </div>
   );

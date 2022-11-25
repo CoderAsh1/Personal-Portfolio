@@ -1,7 +1,7 @@
 import React from "react";
 import programming from "../assets/programming.svg";
 import namaste from "../assets/namaste.png";
-import "../Styles/hero.css";
+import "../Styles/hero.scss";
 const Hero = () => {
   return (
     <div className="container" data-aos="fade-in">

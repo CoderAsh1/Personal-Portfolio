@@ -9,6 +9,10 @@ import {
   expressLogo,
   mongoLogo,
   sass,
+  bootstrap,
+  chartJs,
+  material,
+  redux,
 } from "../assets";
 import Skill from "./Skill";
 import "../Styles/skills.scss";
@@ -24,7 +28,11 @@ const Skills = () => {
           <Skill logo={jsLogo} alt={"jsLogo"} text={"JavaScript"} />
           <Skill logo={reactLogo} alt={"reactLogo"} text={"React"} />
           <Skill logo={tailwindLogo} alt={"tailwindLogo"} text={"Tailwind"} />
-          <Skill logo={sass} alt={"tailwindLogo"} text={"SASS"} />
+          <Skill logo={sass} alt={"sass"} text={"SASS"} />
+          <Skill logo={bootstrap} alt={"bootstrap"} text={"Bootstrap"} />
+          <Skill logo={chartJs} alt={"chartJs"} text={"chartJs"} />
+          <Skill logo={material} alt={"material"} text={"Material UI"} />
+          <Skill logo={redux} alt={"redux"} text={"Redux"} />
         </div>
       </div>
       <div className="skillContainer" data-aos="fade-up">
