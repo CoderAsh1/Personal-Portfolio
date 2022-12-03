@@ -3,9 +3,15 @@ import programming from "../assets/programming.svg";
 import namaste from "../assets/namaste.png";
 import "../Styles/hero.scss";
 const Hero = () => {
+  const { innerWidth: width } = window;
+
   return (
-    <div className="container" data-aos="fade-in">
-      <section className="intro">
+    <div className="container">
+      <section
+        className="intro"
+        data-aos={width > 850 ? "fade-right" : "fade-in"}
+        data-aos-duration="1200"
+      >
         <div className="left">
           <h1>Namaste</h1>
           <img className="namasteLogo" src={namaste} alt="" />
@@ -16,12 +22,18 @@ const Hero = () => {
           Odisha,India. I love building beautiful interfaces,Web Apps and
           everything in between.
         </h1>
-        <a href="#footer" data-aos="fade-up" data-aos-duration="600">
+        <a href="#footer" data-aos="fade-up">
           <button>Contact Me</button>
         </a>
       </section>
 
-      <img className="heroImg" src={programming} alt="" />
+      <img
+        className="heroImg"
+        src={programming}
+        alt=""
+        data-aos="fade-left"
+        data-aos-duration="1200"
+      />
     </div>
   );
 };

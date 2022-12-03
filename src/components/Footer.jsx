@@ -22,15 +22,9 @@ const Footer = () => {
           <img src={github} alt="" />
           <h6>github.com/CoderAsh1</h6>
         </a>
-        <a
-          href="https://www.linkedin.com/in/ashutosh-sasmal-38456624b/"
-          target="blank"
-        >
+        <a href="https://www.linkedin.com/in/coderash1/" target="blank">
           <img src={linkedIn} alt="" />
-          <h6>
-            www.linkedin.com/in/ ashutosh- <br />
-            sasmal -38456624b
-          </h6>
+          <h6>www.linkedin.com/in/coderash1</h6>
         </a>
       </div>
     </section>
