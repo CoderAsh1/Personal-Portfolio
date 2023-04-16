@@ -25,7 +25,7 @@ const Projects = () => {
       <h1>Projects</h1>
       <div>
         <Tilt>
-          <div className="projectContainer" data-aos="fade-left">
+          <div className="projectContainer" data-aos="fade-right">
             <section>
               <a href="https://netflix-kappa-eight.vercel.app/" target="blank">
                 <h2>Netflix</h2>
