@@ -22,3 +22,4 @@ export { default as material } from "./material.png";
 export { default as redux } from "./redux.png";
 export { default as cssCertificate } from "./cssCertificate.png";
 export { default as jsCertificate } from "./jsCertificate.jpg";
+export { default as relevel } from "./relevel.jpg";
