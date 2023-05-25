@@ -8,6 +8,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
 import Certification from "./components/Certification";
+import { Partytown } from "@builder.io/partytown/react";
 AOS.init();
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
 
   return (
     <div className="App">
+      <Partytown debug={true} forward={["dataLayer.push"]} />
       <Hero />
       <About />
       <Skills />
